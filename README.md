@@ -8,12 +8,16 @@ After opening an terminal instance in the root folder and installing all depende
 
 ## Description
 
-This application was created in order to have a database for notes. 
+This application was created in order to provide users with a database for notes. 
+
+## Screenshot
+
+![App Screenshot](/public/assets/screenshot/screen.png)
 
 ## Usage
 
 After starting the application, users can input titles & text for as many notes as desired which will then be rendered on the side for future viewing.
 
-##
+## Credits
 
 Code refactored by Christopher L. Cristóbal Zayas
